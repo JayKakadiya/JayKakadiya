@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm an Associate Architect who loves building scal
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKakadiya&show_icons=true&hide_title=true&hide=issues&count_private=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayKakadiya&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jay-kakadiya-a7b79a103/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:jay648.kakadiya@gmail.com)
