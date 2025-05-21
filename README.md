@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm an Associate Architect who loves building scal
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKakadiya&show_icons=true&hide_title=true&hide=issues&count_private=true&hide_border=true&theme=default)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayKakadiya&layout=compact&hide_border=true&theme=default)
 
 ---
